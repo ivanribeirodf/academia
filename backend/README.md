@@ -4,7 +4,6 @@ Estrutura de Pasta:
   - `controllers/` (controladores para lidar com as solicitações HTTP)
   - `models/` (modelos de dados)
   - `routes/` (definição de rotas da API)
-  - `middleware/` (middleware para processamento intermediário)
   - `config/` (arquivos de configuração, como configurações de banco de dados)
   - `utils/` (funções utilitárias)
   - `index.js` (ponto de entrada do aplicativo)
