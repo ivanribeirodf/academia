@@ -1,4 +1,11 @@
+Instalar:
+
+- npm i express
+- npm install nodemon -D
+- npm i knex
+
 Estrutura de Pasta:
+
 - `node_modules/` (dependências do Node.js)
 - `src/` (código-fonte do backend)
   - `controllers/` (controladores para lidar com as solicitações HTTP)
